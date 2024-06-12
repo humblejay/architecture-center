@@ -1,0 +1,23 @@
+### YamlMime:Architecture
+metadata:
+  title: Confidential Compute Reference Pattern
+  titleSuffix: Azure Example Scenarios
+  description: Reference confidential compute pattern for sensitive workloads.
+  author: humblejay
+  ms.author: kupole
+  ms.date: 06/05/2024
+  ms.topic: example-scenario
+  ms.service: architecture-center
+  ms.subservice: example-scenario
+  ms.custom:
+    - confidential-compute
+azureCategories:
+  - compute
+  - security
+products:
+  - azure-virtual-machines
+name: Confidential Compute Reference Pattern
+summary: Reference confidential computing pattern for sensitive workloads.
+thumbnailUrl: /azure/architecture/browse/thumbs/confidential-compute-reference-architecture-thumbnail.png
+content: |
+  [!include[](confidential-compute-content.md)]
